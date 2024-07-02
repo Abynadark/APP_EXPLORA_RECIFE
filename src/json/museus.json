@@ -1,0 +1,88 @@
+{
+  "museus": [
+    {
+      "nome": "Museu da Cidade do Recife",
+      "descricao": "O Museu da Cidade do Recife é dedicado à história e cultura da cidade, com exposições permanentes e temporárias que destacam a evolução urbana e cultural de Recife.",
+      "endereco": "Forte das Cinco Pontas, São José, Recife - PE, 50020-100",
+      "latitude": -8.071748,
+      "longitude": -34.880859,
+      "telefone": "(81) 3134.3750",
+      "whatsapp": "(81) 3441-1733",
+      "email": "educativomcr@gmail.com",
+      "site": "https://museudacidadedorecife.org/",
+      "intagram": "",
+      "funcionamento": "Quarta a sexta-feira: 10h às 17h | Sábados e Domingos: 10h às 16h.",
+      "valoringresso": "Gratuito"
+    },
+    {
+      "nome": "Instituto Ricardo Brennand",
+      "descricao": "O Instituto Ricardo Brennand é um complexo cultural composto por um museu, uma pinacoteca, uma biblioteca e um parque escultórico, conhecido por sua vasta coleção de armas e obras de arte.",
+      "endereco": "Alameda Antônio Brennand, s/n - Várzea, Recife - PE, 50741-904",
+      "latitude": -8.066181,
+      "longitude": -34.963199,
+      "telefone": ["(81) 2121.0352", "(81) 2121.0365"],
+      "whatsapp": "",
+      "email": "",
+      "site": "https://www.institutoricardobrennand.org.br/",
+      "intagram": "",
+      "funcionamento": "Terça à Domingo: 13h às 17h",
+      "valoringresso": "Inteira: R$ 50,00 | Meia*: R$ 25,00"
+    },
+    {
+      "nome": "Museu do Homem do Nordeste",
+      "descricao": "O Museu do Homem do Nordeste é um museu antropológico que apresenta a cultura, história e costumes do Nordeste brasileiro, com exposições que abordam aspectos sociais, econômicos e culturais da região.",
+      "endereco": "Av. Dezessete de Agosto, 2187 - Casa Forte, Recife - PE, 52061-540",
+      "latitude": -8.030588, 
+      "longitude": -34.925347,
+      "telefone": [" (81) 3073-6385 ", "(81) 3073-6340", "(81) 3073-6385"],
+      "whatsapp": "",
+      "email": "agendamento.muhne@fundaj.gov.br",
+      "site": "https://www.gov.br/fundaj/pt-br/composicao/dimeca-1/museu-do-homem-do-nordeste-1",
+      "intagram": "https://www.instagram.com/museudohomemdonordeste/",
+      "funcionamento": "Terça à Sexta: 09h às 17h | Fim de Semana e Feriado: 13h às 17h",
+      "valoringresso": "Inteira: R$ 6,00 | Meia: R$ 3,00 | Gratuito: Domingo e Feriado"
+    },
+    {
+      "nome": "Museu Cais do Sertão",
+      "descricao": "O Museu Cais do Sertão é um museu interativo que celebra a cultura e história do Sertão nordestino, com foco na vida e obra de Luiz Gonzaga, o Rei do Baião.",
+      "endereco": "Av. Alfredo Lisboa, s/n - Bairro do Recife, Recife - PE, 50030-150",
+      "latitude": -8.060285, 
+      "longitude": -34.869979,
+      "telefone": ["(81) 3182-8267", "(81) 3182-8269"],
+      "whatsapp": "",
+      "email": ["agendamento@caisdosertao.pe.gov.br", "comercial@caisdosertao.pe.gov.br"],
+      "site": "https://caisdosertao.pe.gov.br/",
+      "intagram": "https://www.instagram.com/caisdosertao/",
+      "funcionamento": "Terça a sexta-feira: 10h às 16h | Sábados e domingos: 11h às 17h",
+      "valoringresso": "Inteira: R$ 10,00 | Meia: R$ 5,00 | Gratuito: Terça-Feira"
+    },
+    {
+      "nome": "Paço do Frevo",
+      "descricao": "O Paço do Frevo é um espaço cultural dedicado à preservação, pesquisa e difusão do Frevo, um dos gêneros musicais mais importantes do Brasil, com exposições interativas e apresentações ao vivo.",
+      "endereco": "R. da Guia, s/n - Bairro do Recife, Recife - PE, 50030-360",
+      "latitude": -8.061413, 
+      "longitude": -34.871620,
+      "telefone": "",
+      "whatsapp": "",
+      "site": "https://pacodofrevo.org.br/",
+      "intagram": "https://www.instagram.com/pacodofrevo/",
+      "funcionamento": "Terça à Sexta-feira: 10h às 17h | Sábado e Domingo: 11h às 18h",
+      "valoringresso": "Inteira: R$ 10,00 | Meia: R$ 5,00"
+
+
+    },
+    {
+      "nome": "Fundação Gilberto Freyre ",
+      "descricao": "Instituição criada para manter reunido, preservado e à disposição do público o acervo pessoal e intelectual do escritor Gilberto Freyre.",
+      "endereco": "Rua Dois Irmãos, 320 Apipucos, Recife, Pernambuco 52071-440 Brasil",
+      "latitude": -8.020220,
+      "longitude": -34.938920,
+      "telefone": "(81) 3441-3348",
+      "whatsapp": "(81) 3441-1733",
+      "site": "https://fgf.org.br/",
+      "intagram": "https://www.instagram.com/fundacao.gilbertofreyre/",
+      "funcionamento": "Segunda a sexta-feira: 9h, 10h, 11h, 12h, 13h, 14h, 15h e 16h | Sábado e domingo: fechado | Feriado: fechado",
+      "valoringresso": "Inteira: R$ 15,00 | Meia: R$ 7,50 | Visitas agendadas e ações educativas: R$ 20,00"
+    }
+  ]
+}

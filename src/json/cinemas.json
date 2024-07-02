@@ -1,0 +1,48 @@
+{
+    "cinemas": [
+      {
+        "nome": "Cinema da Fundação Joaquim Nabuco (FUNDAJ) - Derby",
+        "descricao": "Há mais de 25 anos, o Cinema da Fundação é um dos espaços favoritos para quem ama a arte cinematográfica. Considerado um dos mais bem equipados do Estado, dispõe de três salas: a do Museu, em Casa Forte, a do Derby e a do Porto, no Bairro do Recife.",
+        "endereco": "R. Henrique Dias, 609 - Derby, Recife - PE, 52010-100",
+        "latitude": -8.059324, 
+        "longitude": -34.899970,
+        "telefone": ["(81) 3073-6369", "(81) 3073-6420"],
+        "whatsapp": "",
+        "email": "acessibilidade.cinema@fundaj.gov.br",
+        "site": "https://cinemadafundacao.com.br/",
+        "intagram": "https://www.instagram.com/cinemadafundacao/",
+        "funcionamento": "Consultar Programação no Site",
+        "valoringresso": "Terça: R$ 5 (preço único). Obs: Não válida para festivais e mostras especiais \n\nQuarta: R$ 7 (meia) e R$ 14 (inteira). Obs: Gratuito para professores \n\nQuinta a Domingo: R$ 7 (meia) e R$ 14 (inteira) \n\nChama Curtas: gratuito"
+      },
+      {
+        "nome": "Cinema do Museu - Fundação Joaquim Nabuco (FUNDAJ) - Casa Forte",
+        "descricao": "Há mais de 25 anos, o Cinema da Fundação é um dos espaços favoritos para quem ama a arte cinematográfica. Considerado um dos mais bem equipados do Estado, dispõe de três salas: a do Museu, em Casa Forte, a do Derby e a do Porto, no Bairro do Recife.",
+        "endereco": "Av. Dezessete de Agosto, 2187 - Casa Forte, Recife - PE, 52060-590",
+        "latitude": -8.030372, 
+        "longitude": -34.925721,
+        "telefone": ["(81) 3073-6369", "(81) 3073-6420"],
+        "whatsapp": "",
+        "email": "acessibilidade.cinema@fundaj.gov.br",
+        "site": "https://cinemadafundacao.com.br/",
+        "intagram": "https://www.instagram.com/cinemadafundacao/",
+        "funcionamento": "Consultar Programação no Site",
+        "valoringresso": "Terça: R$ 5 (preço único). Obs: Não válida para festivais e mostras especiais \n\nQuarta: R$ 7 (meia) e R$ 14 (inteira). Obs: Gratuito para professores \n\nQuinta a Domingo: R$ 7 (meia) e R$ 14 (inteira) \n\nChama Curtas: gratuito"
+
+      },
+      {
+        "nome": "Cinema do Porto / Cinema da Fundação - Recife Antigo",
+        "descricao": "Há mais de 25 anos, o Cinema da Fundação é um dos espaços favoritos para quem ama a arte cinematográfica. Considerado um dos mais bem equipados do Estado, dispõe de três salas: a do Museu, em Casa Forte, a do Derby e a do Porto, no Bairro do Recife.",
+        "endereco": "Cais do Apolo, 222 - 16º andar - Recife, PE, 50030-230",
+        "latitude": -8.063127,
+        "longitude": -34.873925,
+        "telefone": ["(81) 3073-6369", "(81) 3073-6420"],
+        "whatsapp": "",
+        "email": "acessibilidade.cinema@fundaj.gov.br",
+        "site": "https://cinemadafundacao.com.br/",
+        "intagram": "https://www.instagram.com/cinemadafundacao/",
+        "funcionamento": "Consultar Programação no Site",
+        "valoringresso": "Terça: R$ 5 (preço único). Obs: Não válida para festivais e mostras especiais \n\nQuarta: R$ 7 (meia) e R$ 14 (inteira). Obs: Gratuito para professores \n\nQuinta a Domingo: R$ 7 (meia) e R$ 14 (inteira) \n\nChama Curtas: gratuito"
+      }
+    ]
+  }
+  

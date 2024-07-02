@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Exposição de Arte Moderna",
+      "date": "15/08/2015",
+      "time": "19:00",
+      "description": "Uma exposição com obras de artistas modernos locais e internacionais.",
+      "location": "Museu Cais do Sertão",
+      "address": "Av. Alfredo Lisboa, s/n - Bairro do Recife, Recife - PE, 50030-150",
+      "mapsUrl": "https://maps.app.goo.gl/fHwWWBc9CXavN5R4A"
+    },
+    {
+      "id": 2,
+      "title": "Festival de Cinema",
+      "date": "01/09/2024",
+      "time": "20:30",
+      "description": "Exibição de filmes independentes e clássicos do cinema.",
+      "location": "Cinema da Fundação Joaquim Nabuco (FUNDAJ) - Derby",
+      "address": "R. Henrique Dias, 609 - Derby, Recife - PE, 52010-100",
+      "mapsUrl": "https://maps.app.goo.gl/QLcrvf4PB2ZQU36V8"
+    },
+    {
+      "id": 3,
+      "title": "Peça de Teatro: Hamlet",
+      "date": "05/09/2024",
+      "time": "19:00",
+      "description": "Apresentação da peça de teatro Hamlet por uma companhia local.",
+      "location": "Teatro de Santa Isabel",
+      "address": "Praça da República, s/n - Santo Antônio, Recife - PE, 50010-040",
+      "mapsUrl": "https://maps.app.goo.gl/UK9yVcXEC56T5CXM6"
+    },
+    {
+      "id": 4,
+      "title": "Concerto de Música Clássica",
+      "date": "14/09/2024",
+      "time": "21:00",
+      "description": "Concerto com a orquestra sinfônica do Recife.",
+      "location": "Auditório do Parque Dona Lindu",
+      "address": "Av. Boa Viagem, S/N - Boa Viagem, Recife - PE, 51021-000",
+      "mapsUrl": "https://maps.app.goo.gl/tQG2PZgVDJYLoVZ29"
+    },
+    {
+      "id": 5,
+      "title": "Feira de Artesanato",
+      "date": "15/09/2024",
+      "time": "10:00",
+      "description": "Feira com peças de artesanato local e regional.",
+      "location": "Centro de Convenções de Pernambuco",
+      "address": "Av. Professor Andrade Bezerra, S/N - Salgadinho, Olinda - PE, 53110-680",
+      "mapsUrl": "https://maps.app.goo.gl/dp8fzoQuoD4GZTRaA"
+    },
+    {
+      "id": 6,
+      "title": "Mostra de Fotografia",
+      "date": "15/09/2024",
+      "time": "15:00",
+      "description": "Exposição de fotografias de paisagens e vida urbana.",
+      "location": "Galeria de Arte Recife",
+      "address": "R. do Bom Jesus, 237 - Recife Antigo, Recife - PE, 50030-170",
+      "mapsUrl": "https://maps.app.goo.gl/P8mGaANgpQZPFTLSA"
+    }
+  ]

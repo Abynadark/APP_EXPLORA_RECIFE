@@ -1,0 +1,46 @@
+{
+  "teatros": [
+    {
+      "nome": "Teatro de Santa Isabel",
+      "descricao": "Um dos mais antigos teatros do Brasil, inaugurado em 1850 e conhecido por sua arquitetura neoclássica. Oferece uma programação variada de óperas, concertos, balés e peças teatrais.",
+      "endereco": "Praça da República - Santo Antônio, Recife - PE, 50010-040",
+      "latitude": -8.060703,
+      "longitude": -34.878104,
+      "telefone": ["(81) 99488-6296", "(81) 3355-3324", "(81) 3355-3323"],
+      "whatsapp": "",
+      "email": ["contatoteatrosantaisabel@gmail.com", "teatrosantaisabel.educativo@gmail.com"],
+      "site": "http://www.recife.pe.gov.br/cultura/santaisabel.php",
+      "instagram": "https://www.instagram.com/teatrodesantaisabel/",
+      "funcionamento": "Terça à Domingo: 14h às 17h. \n\nObs: esse é o funcionamento da bilheteria.Para informações dos dias e horários dos eventos, consulte o instagram oficial do Teatro.",
+      "valoringresso": "Varia conforme o evento. Consulte o instagram para mais informações!"
+    },
+    {
+      "nome": "Teatro Hermilo Borba Filho",
+      "descricao": "O teatro, que a princípio era chamado de Centro Experimental Teatro Apolo, surgiu a partir da transformação de dois armazéns localizados nos fundos do Teatro Apolo em espaço cênico. Iniciou suas atividades em 1987, com a montagem de O Balcão, de Jean Genet, com direção de Antonio Cadengue e atuação dos alunos do Curso de Formação do Ator da Universidade Federal de Pernambuco.",
+      "endereco": "Cais do Apolo, 142 - Recife, PE, 50030-220",
+      "latitude": -8.061198, 
+      "longitude": -34.873049,
+      "telefone": [" (81) 3355-3319", "(81) 3355-3321"],
+      "whatsapp": "",
+      "email": "centroapolohermilo.pauta@gmail.com",
+      "site": "https://visit.recife.br/o-que-fazer/atracoes/teatros/teatro-hermilo",
+      "instagram": "https://www.instagram.com/apolohermilo/",
+      "funcionamento": "Aberto ao público de segunda à sexta-feira, das 8h30 às 12h e das 14h às 16h. \n\nConsulte o instagram oficial do Teatro para saber mais sobre a programação de eventos",
+      "valoringresso": "Consulte o instagram oficial do Teatro para saber à respeito de valores."
+    },
+    {
+      "nome": "Teatro Luiz Mendonça",
+      "descricao": "Localizado no Parque Dona Lindu, é um espaço cultural que oferece uma programação diversificada de teatro, música, dança, cinema e eventos culturais ao ar livre.",
+      "endereco": "Av. Boa Viagem, S/N - Boa Viagem, Recife - PE, 51030-000",
+      "latitude": -8.141584, 
+      "longitude": -34.904108,
+      "telefone": "(81) 33559822",
+      "whatsapp": "",
+      "email": "",
+      "site": "https://www2.recife.pe.gov.br/servico/teatro-luiz-mendonca/",
+      "instagram": "https://www.instagram.com/teatroluizmendonca/",
+      "funcionamento": "Consulte programação no no instagram oficial do Teatro para saber à respeito de valores.",
+      "valoringresso": "Consulte o instagram oficial do Teatro para saber à respeito de valores."
+    }
+  ]
+}
